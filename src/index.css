@@ -51,6 +51,7 @@ border-color: #F1E9FC;
     padding-bottom: 5px;
     margin-bottom: 2rem;
 }
+
 .feature{
     border-radius: 10px ;
    
@@ -63,6 +64,9 @@ border-color: #F1E9FC;
     color: transparent;
     transition: background 0.3s ease;
     font-size: 25px; 
+}
+#Feat:hover{
+    cursor: pointer;
 }
 .learn{
       background: linear-gradient(90deg, #9b60c4, #f16a76);
