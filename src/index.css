@@ -75,6 +75,9 @@ border-color: #F1E9FC;
     color: transparent;
     transition: background 0.3s ease;  
 }
+.learn:hover{
+    cursor:pointer;
+}
 .cta {
     background-color: #151218;
     padding: 20px;
